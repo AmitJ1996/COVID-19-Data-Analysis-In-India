@@ -1,6 +1,5 @@
 # COVID-19-Data-Analysis-In-India
 Project In Tableau On "COVID-19 Data Analysis In India".
-Context
 This is a Covid 19 data set for India. The data set is updated frequently and is analysed using tableau. Click on the link to visit the tableau story. Click each of the caption in the story to unveil its content.
 
 The first Covid 19 case in India was reported on 30th January 2020 in South Indian state of Kerala on a medical student who was pursuing the studies at Wuhan University, China. Two more students were found to be infected in Kerala in the consecutive days. The Kerala government was successful in containing the disease with its proactive measures back then. The second outbreak of Covid 19 in India started in the first week of March from various parts of India in various people who visited the foreign countries and in some of the tourists from different countries.
